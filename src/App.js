@@ -99,9 +99,9 @@ class App extends Component {
 							bonus voucher included with first print copies for Nintendo Switch, Nintendo Switch 2, and/or Xbox.
 						</div>
 						<div className="text02">
-							**This is not to purchase the actual game. Please do not purchase this item as it is non-refundable<br/> 
-							and only to download the digital soundtrack. The purpose of this page is for Downloadable voucher<br/> 
-							redemption included with certain retail copies.**
+							This is not to purchase the actual game. Please do not purchase this item as it is non-refundable
+							and only to download the digital soundtrack. The purpose of this page is for Downloadable voucher
+							redemption included with certain retail copies.
 						</div>
 						<div className="text03">
 							<div className="padding-l-32">
