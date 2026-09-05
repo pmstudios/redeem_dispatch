@@ -96,7 +96,7 @@ class App extends Component {
 					<div className="middle center">
 						<div className="text01">
 							Thank you for purchasing Dispatch. This is the Downloadable Soundtrack page to redeem your <br/> 
-							bonus voucher included with first print copies for PlayStation 5 and/or Nintendo Switch.
+							bonus voucher included with first print copies for Nintendo Switch, Nintendo Switch 2, and/or Xbox.
 						</div>
 						<div className="text02">
 							**This is not to purchase the actual game. Please do not purchase this item as it is non-refundable<br/> 
