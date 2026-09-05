@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/redeem_dispatch/static/css/main.cf843b85.chunk.css",
-    "main.js": "/redeem_dispatch/static/js/main.20b5203e.chunk.js",
-    "main.js.map": "/redeem_dispatch/static/js/main.20b5203e.chunk.js.map",
+    "main.js": "/redeem_dispatch/static/js/main.ee2d1a7f.chunk.js",
+    "main.js.map": "/redeem_dispatch/static/js/main.ee2d1a7f.chunk.js.map",
     "runtime-main.js": "/redeem_dispatch/static/js/runtime-main.c7b38fab.js",
     "runtime-main.js.map": "/redeem_dispatch/static/js/runtime-main.c7b38fab.js.map",
     "static/js/2.4f78ef5f.chunk.js": "/redeem_dispatch/static/js/2.4f78ef5f.chunk.js",
     "static/js/2.4f78ef5f.chunk.js.map": "/redeem_dispatch/static/js/2.4f78ef5f.chunk.js.map",
     "index.html": "/redeem_dispatch/index.html",
-    "precache-manifest.887690185e7f3954fd781b85a8ed5398.js": "/redeem_dispatch/precache-manifest.887690185e7f3954fd781b85a8ed5398.js",
+    "precache-manifest.a86ade84b65809773a3f2014a508b161.js": "/redeem_dispatch/precache-manifest.a86ade84b65809773a3f2014a508b161.js",
     "service-worker.js": "/redeem_dispatch/service-worker.js",
     "static/css/main.cf843b85.chunk.css.map": "/redeem_dispatch/static/css/main.cf843b85.chunk.css.map",
     "static/js/2.4f78ef5f.chunk.js.LICENSE.txt": "/redeem_dispatch/static/js/2.4f78ef5f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c7b38fab.js",
     "static/js/2.4f78ef5f.chunk.js",
     "static/css/main.cf843b85.chunk.css",
-    "static/js/main.20b5203e.chunk.js"
+    "static/js/main.ee2d1a7f.chunk.js"
   ]
 }
