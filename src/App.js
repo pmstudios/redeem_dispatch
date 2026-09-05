@@ -87,15 +87,15 @@ class App extends Component {
 			<div style={divStyle}>
 				<div className="frame">
 					<div className="top center">
-						<img src={'./images/Logo.png'} alt='Dispatch' />
+						<img src={'./images/Logo.png'} alt='Dispatch SteelBook Edition' />
 						<div className="title">
-							<h1>Dispatch</h1>
+							<h1>Dispatch SteelBook Edition</h1>
 							<h1>Bonus Digital Soundtrack Download</h1>
 						</div>
 					</div>
 					<div className="middle center">
 						<div className="text01">
-							Thank you for purchasing Dispatch. This is the Downloadable Soundtrack page to redeem your <br/> 
+							Thank you for purchasing Dispatch SteelBook Edition. This is the Downloadable Soundtrack page to redeem your <br/> 
 							bonus voucher included with first print copies for Nintendo Switch, Nintendo Switch 2, and/or Xbox.
 						</div>
 						<div className="text02">

@@ -2,12 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
 
 h1 {
-  color: #5644B4;
+  color: #FFFFFF;
   font-family: Roboto;
   font-size: 40px;
   font-weight: 700;
   line-height: 0.46;
-  letter-spacing: -0.24px
+  letter-spacing: -0.24px;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6)
 }
 
 h2 {
