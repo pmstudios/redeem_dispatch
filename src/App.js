@@ -95,7 +95,7 @@ class App extends Component {
 					</div>
 					<div className="middle center">
 						<div className="text01">
-							Thank you for purchasing Dispatch SteelBook Edition. This is the Downloadable Soundtrack page to redeem your <br/> 
+							Thank you for purchasing Dispatch SteelBook Edition. This is the Downloadable Soundtrack page to redeem your
 							bonus voucher included with first print copies for Nintendo Switch, Nintendo Switch 2, and/or Xbox.
 						</div>
 						<div className="text02">
